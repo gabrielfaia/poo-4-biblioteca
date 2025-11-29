@@ -13,7 +13,5 @@ Este projeto é um sistema de gerenciamento de biblioteca, projetado para simula
 ## Instruções de utilização
 1. Clone o repositório através do seu terminal `https://github.com/gabrielfaia/ihc-4-pcg`;
 2. Use `cd poo-4-biblioteca` para alterar o diretório;
-3. Execute o arquivo principal com `python main.py`
-
-## 
+3. Execute o arquivo principal com `python main.py`.
 
